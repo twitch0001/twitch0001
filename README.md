@@ -1,5 +1,6 @@
 ### Hey!
-I'm twitch. I'm a young programmer studying Maths, Physics and Computing. 
+I'm twitch. I'm a young programmer who enjoys writing large scale applications and I am studying Maths, Physics and Computing. 
+
 
 ### Skill Set
 
@@ -31,17 +32,8 @@ I have experience with Docker and docker-compose and I am willing to learn kuber
 📫 Contact:
  - Discord: twitch#7443
  - Website: http://trench.host
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+🔭 I’m currently working on multi-user voice chat for a project
+🌱 I’m currently learning Rust
 
 
