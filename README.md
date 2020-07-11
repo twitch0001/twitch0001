@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey!
+I'm twitch. I'm a young programmer studying Maths, Physics and Computing. 
+
+### Skill Set
+
+#### Programming Languages 
+I usually write in Elixir and Python and I am currently learning Rust. 
+
+
+### Systems 
+I am very confident with Linux and have been using it for the past 6 years (almost daily for the last 2 years)
+
+
+
+### Extra 
+📫 Contact:
+ - Discord: twitch#7443
+ - Website: http://trench.host
+
 
 <!--
-**twitch0001/twitch0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
