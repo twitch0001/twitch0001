@@ -16,6 +16,7 @@ Semi-confident in:
  - Java
  - Go
  - Erlang
+ - Javascript
 
 
 #### Systems 
