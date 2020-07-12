@@ -18,4 +18,4 @@ I have experience with Docker and docker-compose and I am willing to learn kuber
  - Discord: twitch#7443
  - Website: http://trench.host
  
-🔭 I’m currently working on multi-user voice chat for a project & Learning Rust
+🔭 I’m currently working on multi-user voice chat & Learning Rust
