@@ -1,5 +1,5 @@
 ### Hey!
-I'm twitch. I'm a young programmer who enjoys writing large scale applications and I am studying Maths, Physics and Computing. 
+I'm twitch. I'm a young programmer who enjoys writing large scale applications and I am studying Physics and Computing. 
 
 
 ### Skill Set
