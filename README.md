@@ -11,7 +11,8 @@ I enjoy writing Elixir and Python and I am currently learning Rust.
 I am very confident with Linux and have been using it for the past 6 years (almost daily for the last 2 years).
 
 #### Software
-I have experience with Docker, docker-compose and I am willing to learn kubernetes. 
+I have experience with: Docker, docker-compose, Prometheus and Grafana. I am willing to learn Kubernetes or anything else required.
+
 
 ### Extra 
 📫 Contact:
