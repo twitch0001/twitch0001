@@ -18,5 +18,3 @@ I have experience with: Docker, docker-compose, Prometheus and Grafana. I am wil
 📫 Contact:
  - Discord: twitch#7443
  - Website: ~https://trench.host~ 
- 
-🔭 I’m currently working on a clustered realtime Elixir project.
