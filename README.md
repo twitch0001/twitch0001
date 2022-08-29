@@ -4,7 +4,7 @@ I'm twitch! I'm a young programmer who enjoys writing large scale applications. 
 ### Skill Set
 
 #### Programming Languages 
-I enjoy writing Elixir and Python and I am currently learning Rust & Kotlin.
+I enjoy writing Python and Elixir and I'm currently learning C (with QMK)
 
 #### Systems 
 I am very confident with Linux and have been using it for the past 6 years (almost daily for the last 2 years).
