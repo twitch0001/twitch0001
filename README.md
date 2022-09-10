@@ -5,9 +5,6 @@ I'm twitch! I'm a programmer who enjoys writing Python and tinkering with electr
 #### Programming Languages 
 I enjoy writing Python and sometimes C (with QMK)
 
-#### Systems 
-I am very confident with Linux and have been using it for the past 6 years (almost daily for the last 2 years).
-
 #### Skills
 * Python
     - Particularly in asynchronous applications
