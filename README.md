@@ -11,7 +11,6 @@ I'm twitch! I'm a programmer who enjoys writing Python and tinkering with electr
 * Linux - mostly Debian
 * Some Java & Kotlin
 * Previous use of Javascript & Vue for a large project. 
-
 * Good at soldering
 * KiCad
 * Limited C in embedded systems (mostly QMK)
