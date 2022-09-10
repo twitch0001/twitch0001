@@ -15,7 +15,7 @@ I'm twitch! I'm a programmer who enjoys writing Python and tinkering with electr
 * KiCad
 * Limited C in embedded systems (mostly QMK)
 
-### Extra 
+#### Extra 
 📫 Contact:
  - Discord: twitch#7443
  - Website: https://twitch.dance
