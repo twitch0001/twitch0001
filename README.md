@@ -10,8 +10,8 @@ I am very confident with Linux and have been using it for the past 6 years (almo
 
 #### Skills
 * Python
-- Particularly in asynchronous applications
-- FastAPI/Starlette
+ - Particularly in asynchronous applications
+ - FastAPI/Starlette
 * SQL - PostgreSQL
 * Elixir
 * Creating and Using REST/CRUD HTTP APIs
