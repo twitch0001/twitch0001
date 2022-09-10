@@ -1,21 +1,28 @@
 ### Hey!
-I'm twitch! I'm a young programmer who enjoys writing large scale applications. Currently studying Computer Science.
-
+I'm twitch! I'm a programmer who enjoys writing Python and tinkering with electronics. Currently studying Electronic Engineering. 
 ### Skill Set
 
 #### Programming Languages 
-I enjoy writing Python and Elixir and I'm currently learning C (with QMK)
+I enjoy writing Python and sometimes C (with QMK)
 
 #### Systems 
 I am very confident with Linux and have been using it for the past 6 years (almost daily for the last 2 years).
 
-#### Software
-I have experience with: Docker, docker-compose, Prometheus, Grafana & some experience with RabbitMQ . I am willing to learn Kubernetes or anything else required.
+#### Skills
+* Python
+- Particularly in asynchronous applications
+- FastAPI/Starlette
+* SQL - PostgreSQL
+* Elixir
+* Creating and Using REST/CRUD HTTP APIs
+* Linux - mostly Debian
+* Some Java & Kotlin
+* Previous use of Javascript & Vue for a large project. 
 
-### Data
-- Comfortable with SQL
-- Experience deploying, maintaining and using PostgreSQL 
-- Experience with: Redis, Cassanda & Elasticsearch
+##### Electronics
+* Good at soldering
+* KiCad
+* Limited C in embedded systems (mostly QMK)
 
 ### Extra 
 📫 Contact:
