@@ -1,9 +1,5 @@
 ### Hey!
 I'm twitch! I'm a programmer who enjoys writing Python and tinkering with electronics. Currently studying Electronic Engineering. 
-### Skill Set
-
-#### Programming Languages 
-I enjoy writing Python and sometimes C (with QMK)
 
 #### Skills
 * Python
@@ -16,7 +12,6 @@ I enjoy writing Python and sometimes C (with QMK)
 * Some Java & Kotlin
 * Previous use of Javascript & Vue for a large project. 
 
-##### Electronics
 * Good at soldering
 * KiCad
 * Limited C in embedded systems (mostly QMK)
